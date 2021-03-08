@@ -157,17 +157,3 @@ f2x.update_layout(
 f2x.show()
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
